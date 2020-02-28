@@ -1,0 +1,31 @@
+
+Package: معرف الاداة 
+Version: الاصدار
+Architecture: iphoneos-arm
+Maintainer: اكتب اسمك
+Depends: المتطلبات 
+Conflicts: التعارضات
+Filename: موقع الملف
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Tweaks
+Depiction: رابط صفحة الوصف 
+Name: اسم  الاداه 
+
+
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9.8-9
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: debs/com.cokepokes.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
+Size: 1346934
+MD5sum: 10f37901b583e4f54d2a56820aeeca1c
+SHA1: d6bdce0d3496a9354a32d48a9c0b7702059dddb2
+SHA256: 912083331aa434f7faa743cc5fa62c07168576c12851da723ea505114c206529
+Section: Tweaks
+Depiction: https://abuanas652.github.io/Abuanas/ 
+Name:  appstore++ 
