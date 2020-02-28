@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Maintainer: abuanas
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
-Filename: debs/com.cokepokes.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
+Filename: Abuanas/debs/com.cokepokes.appstoreplusplus_0.9.8-9_iphoneos-arm.deb
 Size: 1346934
 MD5sum: 10f37901b583e4f54d2a56820aeeca1c
 SHA1: d6bdce0d3496a9354a32d48a9c0b7702059dddb2
